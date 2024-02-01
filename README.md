@@ -1,4 +1,4 @@
-# Final Year Project Details Site <p align="right"><img src="favicon.png" alt="logo" style="width:50px; height:50px;"></p>
+# Final Year Project Details Site <p align="right"><img src="favicon.png" alt="logo" style="width:100px; height:100px;"></p>
 
 ### Early Days; Navigating Romantic Beginnings, One Question at a Time. A machine learning-based project, encompassing an assessment of relationship compatibility and romantic dealbreakers.
 
